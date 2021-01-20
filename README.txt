@@ -20,3 +20,5 @@ WARNING: your profile should NOT have double authentification enabled for this t
 -----------------------------------------------
 in mainv2.py:
 change value of "vkName" to your lowercase vk name (to do: make the API reach it automatically)
+
+FIRST RUN compileTrainingData.py, then trainChatBot.py
