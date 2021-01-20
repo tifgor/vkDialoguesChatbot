@@ -8,7 +8,7 @@ formatted like this:
 and saved in C:/dialogues by default
 (or another path, but if so, the variable "dialoguesPath" in "mainv2.py" needs to be changed)
 
-the folder of the opponent should be named according to the zip file's name
+the folder with txt dialogues with the opponent should be named according to the zip file's name
 example: "Ivan Ivanov(391726498)"
 
 -----------------------------------------------
